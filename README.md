@@ -5,7 +5,7 @@
 
 **Author:** [Reuben Bramanathan](http://bramanathan.com "Reuben Bramanathan")
 
-You can hire and access Reuben's services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
+You can hire and access Reuben's consulting services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
 
 **This is a template Terms of Service for your personal token.**
 
@@ -14,9 +14,7 @@ This template is:
 * for use by anyone who wants to tokenize their time - e.g. one token is redeemable for one hour of your time.
 * based on a send-to-redeem model, not a burn-to-redeem model. It enables you to put redeemed tokens back into circulation
 
-This template is completely free to use and modify for any purpose under a Creative Commons Zero License. Nothing in this template constitutes legal advice.
-
-You might want to put the first section _Summary of Important Terms_ on the main page of your website or somewhere that is easily discoverable
+This template is completely free to use and modify for any purpose under a Creative Commons Zero License. Nothing in this template constitutes legal advice. You might want to put the first section _Summary of Important Terms_ on the main page of your website or somewhere that is easily discoverable
 
 You'll need to update the following variables
 
