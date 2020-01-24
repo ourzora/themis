@@ -3,7 +3,7 @@
 # ~Themis
 ### A Personal Token Terms of Service
 
-**Author:** [Rebuen Bramanathan](http://bramanathan.com "Rebuen Bramanathan")
+**Author:** [Reuben Bramanathan](http://bramanathan.com "Rebuen Bramanathan")
 
 You can hire and access Reuben's legal services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
 
