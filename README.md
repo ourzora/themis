@@ -4,10 +4,10 @@
 ### A Personal Token Terms of Service
 
 **Author:** [Rebuen Bramanathan](http://bramanathan.com "Rebuen Bramanathan")
+
 You can hire and access Reuben's legal services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
 
-**This is a template Terms of Service for your personal token. 
-**
+**This is a template Terms of Service for your personal token.**
 
 This template is: 
 * designed to be used with an ERC20 token issued on the Ethereum blockchain with a capped supply
