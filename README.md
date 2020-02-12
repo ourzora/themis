@@ -10,8 +10,8 @@ You can hire and access Reuben's consulting services by [purchasing his $CNSL to
 **This is a template Terms of Service for your personal token.**
 
 This template is: 
-* designed to be used with an ERC20 token issued on the Ethereum blockchain with a capped supply
-* for use by anyone who wants to tokenize their time - e.g. one token is redeemable for one hour of your time.
+* designed to be used with an [ERC20 token](https://docs.openzeppelin.com/contracts/2.x/tokens) issued on the [Ethereum blockchain](https://ethereum.org/) with a capped supply
+* for use by anyone who wants to tokenize their time - e.g., one token is redeemable for one hour of your time.
 * based on a send-to-redeem model, not a burn-to-redeem model. It enables you to put redeemed tokens back into circulation
 
 This template is completely free to use and modify for any purpose under a Creative Commons Zero License. Nothing in this template constitutes legal advice. You might want to put the first section _Summary of Important Terms_ on the main page of your website or somewhere that is easily discoverable
@@ -20,9 +20,11 @@ You'll need to update the following variables
 
   [token name]  
   [contract address]  
-  [max supply]  
-  [redeem address]    
-  [your name]   
+  [max supply]
+  [redemption offer]
+  [redeem address] 
+  [minimum redemption]
+  [your name]
   [website]   
   [email address]   
   [charity name]   
@@ -31,12 +33,11 @@ ___
 # Summary of Important Terms for $[token name] 
 
 * $[token name] is the personal token of [your name]. It exists on the Ethereum blockchain at [contract address] and the maximum supply of $[token name] is [max supply].
-* You can redeem 1 $[token name] for 1 hour of my time by sending it to [redeem address]. The minimum redemption size is 0.5 $[token name] for 30 minutes of my time.
+* You can redeem 1 $[token name] for [redemption offer] by sending it to [redeem address]. 
 * Before redeeming $[token name], you can set up an obligation-free fifteen minute call with me by signing a message from an Ethereum address that holds at least 1 $[token name]. 
 * I can provide any of the services listed at [website] or any other services that you and I both agree on.
 * I will do my best to schedule time to complete the work for you, but I can’t always guarantee that I will be available immediately. 
 * All $[token name] tokens will expire at 11:59pm Pacific Time on [Expiration date] and cannot be redeemed after that time.
-* I will donate 10% of all revenue from sales of $[token name] to [charity name].
 * I will give at least 24 hours notice via Twitter [@username](www.twitter/com/username) of any additional minting of $[token name] after the first minting of 100 tokens
 * I will give at least 24 hours notice via Twitter [@username](www.twitter/com/username) before I release any additional $[token name] into the market after the initial release
 * If you have any questions, please contact me at [email address] before buying or redeeming $[token name].
@@ -76,30 +77,28 @@ These Terms of Service (“Terms”) form a binding legal agreement between each
 
 11. Provided that the above criteria are met, Consultant agrees to provide professional services (“Services”) to any person who redeems $[token name], on the terms set forth in these Terms. 
 
-12. Consultant agrees to donate 10% of the gross revenue that Consulant realizes from sales of $[token name] to [charity].
 ##### Performing the Services
-13.  Consultant will make best efforts in good faith to provide the Services to you as soon as possible after you redeem $[token name]. Consultant does not guarantee availability or provide any commitment about when Consultant will be able to provide the Services to you.  
+12.  Consultant will make reasonable best efforts in good faith to provide the Services to you as soon as possible after you redeem $[token name]. Consultant does not guarantee availability or provide any commitment about when Consultant will be able to provide the Services to you.  
 
-14. If at any time you attempt to procure Consultant to provide Services in contravention of the requirements in section 7 above, Consultant reserves the right to cease to provide Services and not to refund any $[token name] that you have redeemed.
+13. If at any time you attempt to procure Consultant to provide Services in contravention of the requirements in section 7 above, Consultant reserves the right to cease to provide Services and not to refund any $[token name] that you have redeemed.
 ##### Independent Contractor Relationship
-15. Consultant's relationship with you will be that of an independent contractor, and nothing in these Terms intended to, or should be construed to create a partnership, agency, joint venture, or employment relationship. Consultant is not entitled to any employee benefits from you. Consultant will provide and use their own computer and all other equipment required to perform services for you.
+14. Consultant's relationship with you will be that of an independent contractor, and nothing in these Terms intended to, or should be construed to create a partnership, agency, joint venture, or employment relationship. Consultant is not entitled to any employee benefits from you. Consultant will provide and use their own computer and all other equipment required to perform services for you.
 
 ##### Fees
-16. Apart from redeeming $[token name], you do not have to pay any other fees for the Services.
+15. Apart from redeeming $[token name], you do not have to pay any other fees for the Services.
 ##### Ownership of Work Product
-17. Consultant agrees that any and all work product developed by Consultant alone or in conjunction with others in connection with the performance of services pursuant to these Terms is and shall be your sole property, and Consultant shall retain no ownership, interest, or rights therein. Work product includes but is not limited to reports, graphics, memoranda, presentations, email and letter correspondence between Consultant and you, and between Consultant and third parties on behalf of you. 
+16. Consultant agrees that any and all work product developed by Consultant alone or in conjunction with others in connection with the performance of services pursuant to these Terms is and shall be your sole property, and Consultant shall retain no ownership, interest, or rights therein. Work product includes but is not limited to reports, graphics, memoranda, presentations, email and letter correspondence between Consultant and you, and between Consultant and third parties on behalf of you. 
 ##### Confidentiality
-18. "Confidential Information" means any and all technical and nontechnical information including patent, copyright, trade secret, proprietary information, designs, business plans, all files and client information related to any of your past, current, future, and proposed business, without limitation, your property, and your information concerning customers, research, financial information, purchasing, business forecasts, sales and merchandising, and marketing plans and information, whether in digital or physical format.
+17. "Confidential Information" means any and all technical and nontechnical information including patent, copyright, trade secret, proprietary information, designs, business plans, all files and client information related to any of your past, current, future, and proposed business, without limitation, your property, and your information concerning customers, research, financial information, purchasing, business forecasts, sales and merchandising, and marketing plans and information, whether in digital or physical format.
 
-19. Consultant agrees to protect the confidentiality of all of your Confidential Information and, except as permitted in this section, Consultant shall neither use nor disclose the Confidential Information. Consultant may use the Confidential Information solely to perform the Services under these Terms for your benefit.
+18. Consultant agrees to protect the confidentiality of all of your Confidential Information and, except as permitted in this section, Consultant shall neither use nor disclose the Confidential Information. Consultant may use the Confidential Information solely to perform the Services under these Terms for your benefit.
 
-20. Consultant's obligations above with respect to any portion of the Confidential Information shall not apply to any such portion that Consultant can demonstrate (a) was in the public domain at or subsequent to the time such portion was communicated to Consultant by you (b) was rightfully in Consultant's possession free of any obligation of confidence at or subsequent to the time such portion was communicated to Consultant by you or (c) was developed by Consultant independently of and without reference to any information communicated to Consultant by you. 
+19. Consultant's obligations above with respect to any portion of the Confidential Information shall not apply to any such portion that Consultant can demonstrate (a) was in the public domain at or subsequent to the time such portion was communicated to Consultant by you (b) was rightfully in Consultant's possession free of any obligation of confidence at or subsequent to the time such portion was communicated to Consultant by you or (c) was developed by Consultant independently of and without reference to any information communicated to Consultant by you. 
 
 ##### Limitation of Liability 
 
-21. YOU AGREE, TO THE FULLEST EXTENT PERMITTED BY LAW, TO LIMIT THE LIABILITY OF CONSULTANT TO YOU FOR ANY AND ALL CLAIMS, LOSSES, COSTS, EXPENSES, OR DAMAGES OF ANY NATURE WHATSOEVER, FROM ANY CAUSE OR CAUSES, SO THAT THE TOTAL AGGREGATE LIABILITY OF CONSULTANT TO YOU SHALL NOT EXCEED THE US DOLLAR EQUIVALENT VALUE OF $[TOKEN NAME] TOKENS REDEEMED BY YOU AT THE TIME OF REDEMPTION. IT IS INTENDED THAT THIS LIMITATION APPLY TO ANY AND ALL LIABILITY OR CAUSES OF ACTION HOWEVER ALLEGED OR ARISING, UNLESS OTHERWISE SPECIFICALLY PROHIBITED BY LAW. ALL CLAIMS AGAINST CONSULTANT SHALL BE DEEMED WAIVED UNLESS MADE IN WRITING AND RECEIVED BY CONSULTANT WITHIN ONE MONTH AFTER COMPLETION OF THE SERVICES WITH RESPECT TO WHICH THE CLAIM IS BEING MADE.
+20. YOU AGREE, TO THE FULLEST EXTENT PERMITTED BY LAW, TO LIMIT THE LIABILITY OF CONSULTANT TO YOU FOR ANY AND ALL CLAIMS, LOSSES, COSTS, EXPENSES, OR DAMAGES OF ANY NATURE WHATSOEVER, FROM ANY CAUSE OR CAUSES, SO THAT THE TOTAL AGGREGATE LIABILITY OF CONSULTANT TO YOU SHALL NOT EXCEED THE US DOLLAR EQUIVALENT VALUE OF $[TOKEN NAME] TOKENS REDEEMED BY YOU AT THE TIME OF REDEMPTION. IT IS INTENDED THAT THIS LIMITATION APPLY TO ANY AND ALL LIABILITY OR CAUSES OF ACTION HOWEVER ALLEGED OR ARISING, UNLESS OTHERWISE SPECIFICALLY PROHIBITED BY LAW. ALL CLAIMS AGAINST CONSULTANT SHALL BE DEEMED WAIVED UNLESS MADE IN WRITING AND RECEIVED BY CONSULTANT WITHIN ONE MONTH AFTER COMPLETION OF THE SERVICES WITH RESPECT TO WHICH THE CLAIM IS BEING MADE.
 
-22. NOTWITHSTANDING ANY PROVISION IN THESE TERMS TO THE CONTRARY, NO PARTY SHALL BE LIABLE HEREUNDER FOR ANY CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES (INCLUDING LOST PROFITS).
+21. NOTWITHSTANDING ANY PROVISION IN THESE TERMS TO THE CONTRARY, NO PARTY SHALL BE LIABLE HEREUNDER FOR ANY CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES (INCLUDING LOST PROFITS).
 
-23. YOU ACCEPT AND ACKNOWLEDGE THAT THERE ARE RISKS ASSOCIATED WITH HOLDING OR USING $[TOKEN NAME] OR USING THE ETHEREUM NETWORK, INCLUDING, BUT NOT LIMITED TO, THE RISK OF LOSING ACCESS TO YOUR ETHEREUM ADDRESS DUE TO LOSS OF PRIVATE KEYS, SEED WORDS OR OTHER CREDENTIALS, AND THE RISK OF UNKNOWN VULNERABILITIES IN THE $[TOKEN NAME] SMART CONTRACT CODE OR THE ETHEREUM NETWORK PROTOCOL. YOU ACKNOWLEDGE AND ACCEPT ALL SUCH RISKS AND AGREE THAT CONSULTANT IS NOT RESPONSIBLE AND IS NOT LIABLE FOR ANY LOSS OF VALUE YOU MAY EXPERIENCE AS A RESULT. YOU ACCEPT AND ACKNOWLEDGE THAT CONSULTANT WILL NOT BE RESPONSIBLE FOR ANY LOSSES, FAILURES, DISRUPTIONS, ERRORS, DISTORTIONS OR DELAYS YOU MAY EXPERIENCE WHEN HOLDING OR USING $[TOKEN NAME] HOWEVER CAUSED. 
-
+22. YOU ACCEPT AND ACKNOWLEDGE THAT THERE ARE RISKS ASSOCIATED WITH HOLDING OR USING $[TOKEN NAME] OR USING THE ETHEREUM NETWORK, INCLUDING, BUT NOT LIMITED TO, THE RISK OF LOSING ACCESS TO YOUR ETHEREUM ADDRESS DUE TO LOSS OF PRIVATE KEYS, SEED WORDS OR OTHER CREDENTIALS, AND THE RISK OF UNKNOWN VULNERABILITIES IN THE $[TOKEN NAME] SMART CONTRACT CODE OR THE ETHEREUM NETWORK PROTOCOL. YOU ACKNOWLEDGE AND ACCEPT ALL SUCH RISKS AND AGREE THAT CONSULTANT IS NOT RESPONSIBLE AND IS NOT LIABLE FOR ANY LOSS OF VALUE YOU MAY EXPERIENCE AS A RESULT. YOU ACCEPT AND ACKNOWLEDGE THAT CONSULTANT WILL NOT BE RESPONSIBLE FOR ANY LOSSES, FAILURES, DISRUPTIONS, ERRORS, DISTORTIONS OR DELAYS YOU MAY EXPERIENCE WHEN HOLDING OR USING $[TOKEN NAME] HOWEVER CAUSED. 
